@@ -2,7 +2,6 @@ C:\Users\stant\Documents\GC_CSHARP_BOOTCAMP\Labs\MVC_Lab\MVC_Lab\bin\Debug\netco
 C:\Users\stant\Documents\GC_CSHARP_BOOTCAMP\Labs\MVC_Lab\MVC_Lab\bin\Debug\netcoreapp3.1\appsettings.json
 C:\Users\stant\Documents\GC_CSHARP_BOOTCAMP\Labs\MVC_Lab\MVC_Lab\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
 C:\Users\stant\Documents\GC_CSHARP_BOOTCAMP\Labs\MVC_Lab\MVC_Lab\bin\Debug\netcoreapp3.1\MVC_Lab.exe
-C:\Users\stant\Documents\GC_CSHARP_BOOTCAMP\Labs\MVC_Lab\MVC_Lab\obj\Debug\netcoreapp3.1\MVC_Lab.csprojAssemblyReference.cache
 C:\Users\stant\Documents\GC_CSHARP_BOOTCAMP\Labs\MVC_Lab\MVC_Lab\obj\Debug\netcoreapp3.1\staticwebassets\MVC_Lab.StaticWebAssets.Manifest.cache
 C:\Users\stant\Documents\GC_CSHARP_BOOTCAMP\Labs\MVC_Lab\MVC_Lab\obj\Debug\netcoreapp3.1\staticwebassets\MVC_Lab.StaticWebAssets.xml
 C:\Users\stant\Documents\GC_CSHARP_BOOTCAMP\Labs\MVC_Lab\MVC_Lab\obj\Debug\netcoreapp3.1\MVC_Lab.RazorAssemblyInfo.cache
@@ -108,3 +107,6 @@ C:\Users\stant\Documents\GC_CSHARP_BOOTCAMP\Labs\MVC_Lab\MVC_Lab\obj\Debug\netco
 C:\Users\stant\Documents\GC_CSHARP_BOOTCAMP\Labs\MVC_Lab\MVC_Lab\obj\Debug\netcoreapp3.1\MVC_Lab.pdb
 C:\Users\stant\Documents\GC_CSHARP_BOOTCAMP\Labs\MVC_Lab\MVC_Lab\obj\Debug\netcoreapp3.1\Razor\Views\Trip\MileageForm.cshtml.g.cs
 C:\Users\stant\Documents\GC_CSHARP_BOOTCAMP\Labs\MVC_Lab\MVC_Lab\obj\Debug\netcoreapp3.1\Razor\Views\Trip\MileageResult.cshtml.g.cs
+C:\Users\stant\Documents\GC_CSHARP_BOOTCAMP\Labs\MVC_Lab\MVC_Lab\obj\Debug\netcoreapp3.1\Razor\Views\Maths\AddNumbers.cshtml.g.cs
+C:\Users\stant\Documents\GC_CSHARP_BOOTCAMP\Labs\MVC_Lab\MVC_Lab\obj\Debug\netcoreapp3.1\Razor\Views\Maths\Results.cshtml.g.cs
+C:\Users\stant\Documents\GC_CSHARP_BOOTCAMP\Labs\MVC_Lab\MVC_Lab\obj\Debug\netcoreapp3.1\Razor\Views\Maths\DivideNumbers.cshtml.g.cs
